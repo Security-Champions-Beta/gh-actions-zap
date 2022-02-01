@@ -1,4 +1,4 @@
-name: ZAP-Test
+name: ZAP-Test 
 
 on:
   push: 
